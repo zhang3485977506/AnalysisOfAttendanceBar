@@ -19,6 +19,7 @@ public class AnalysisOfAttendanceBar {
 
 
         File path = new File("Data");
+        int a =32;
         path.mkdir();
         File path1 = new File("Data\\OutAttendance");
         path1.mkdir();
